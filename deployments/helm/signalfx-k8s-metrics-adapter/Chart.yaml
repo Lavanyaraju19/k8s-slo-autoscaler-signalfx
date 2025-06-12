@@ -1,0 +1,19 @@
+apiVersion: v1
+description: The SignalFx Kubernetes Custom Metrics Adapter
+name: signalfx-k8s-metrics-adapter
+appVersion: 0.8.0
+version: 0.0.6
+keywords:
+- monitoring
+- alerting
+- metrics
+- stats
+home: https://signalfx.com
+sources:
+- 'https://github.com/signalfx/signalfx-k8s-metrics-adapter'
+maintainers:
+- name: keitwb
+  email: benkeith@splunk.com
+- name: dloucasfx
+  email: dlouca@splunk.com
+icon: 'https://signalfx-82c9.kxcdn.com/wp-content/uploads/2015/12/signalfx-main-logo1.png'
